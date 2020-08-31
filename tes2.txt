@@ -1,0 +1,6 @@
+>data_0
+AAAWRN
+>data_1
+AANNNNN
+>data_2
+ANNRRRRRA

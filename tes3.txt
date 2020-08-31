@@ -1,0 +1,6 @@
+>non-ACP_0
+AAAWRN
+>non-ACP_1
+AANNNNN
+>non-ACP_2
+ANNRRRRRA
