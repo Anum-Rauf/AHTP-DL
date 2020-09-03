@@ -44,8 +44,15 @@ DPC features with Gap 3 for benchmarking dataset.
 tes3.txt
 
 Sample raw peptides to test.
+
+# Trained Models 
+we have four CNN trained models and one SVM model which is final predictor: 
+</br> CNN-weights-bench-cv10-1,2,3-2.hdf5 </br> CNN model trained on benchmarking dataset with features of G-gap Dipeptide with gap (1,2,3) </br> CNN-weights-bench-cv10-0,2,3-2.hdf5 </br> CNN model trained on benchmarking dataset with features of G-gap Dipeptide with gap (0,2,3) </br> CNN-weights-bench-cv10-0,1,3-2.hdf5 </br> CNN model trained on benchmarking dataset with features of G-gap Dipeptide with gap (0,1,3)
+</br> CNN-weights-bench-cv10-0,1,2-2.hdf5 </br> CNN model trained on benchmarking dataset with features of G-gap Dipeptide with gap (0,1,2)
+
 # PYTHON CODE
 Python code files and their usage is elaborated in this section.
+
 # Data generation
 The following steps are used to calculate g-gap dipeptides features for any peptide sequence dataset which is in fasta format. Detailed information about fasta format is also given in file. </br> Steps: </br> 1. Open DPC.ipynb file and run each cell one by one and follow the instructions written in cell. </br> 2. After calculation of DPC features with gap 0,1,2,3 the four files will be generated in the current directory. </br> 3. Open these files one by one and remove first row and first column from each file for further training.
 
