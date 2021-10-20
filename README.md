@@ -1,5 +1,5 @@
 # AHTP-DL 
-This repository contains the python code and the datasets used to produce the results of the research article titled "Boosted Prediction of Antihypertensive Peptides using Deep Learning". </br> The proposed model was developed on an online paltform "Google Colaboratory" which provides the facility to execute code online on jupyter notebook. </br> This code can also be used by any offline or online platform in Jupyter Notebook by changing the paths in each .ipynb file. </br> In following section some brief information for each file is given. </br> Detailed infromation is also given inside the files.
+This repository contains the python code and the datasets used to produce the results of the research article titled "Boosted Prediction of Antihypertensive Peptides using Deep Learning". </br> The proposed model was developed on an online platform "Google Colaboratory" which provides the facility to execute code online on jupyter notebook. </br> This code can also be used by any offline or online platform in Jupyter Notebook by changing the paths in each .ipynb file. </br> In following section some brief information for each file is given. </br> Detailed infromation is also given inside the files.
 # Data Sets
 allseq.csv
 
